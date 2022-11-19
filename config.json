@@ -2,5 +2,5 @@
 	"ip":"crossplay_ridu.aternos.me",
 	"port": "34642",
 	"name": "24-7 bot",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
